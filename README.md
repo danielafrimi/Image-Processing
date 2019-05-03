@@ -1,5 +1,2 @@
-daniel023
-sol4.py
-sol4_utils.py
-my_panorama.py
-videos
+A program that performs automatic "Stereo Mosaicking", using Harris detector and
+RANSAC algorithm for registration. The project code can be accessed by request.
